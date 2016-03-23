@@ -18,3 +18,4 @@ VALUES ('http://www.boingboing.net',12),
 SELECT * FROM urls;
 SELECT original_url FROM urls;
 SELECT * FROM urls WHERE id=2;
+SELECT * FROM urls WHERE original_url='http://www.baconbeercan.com/';

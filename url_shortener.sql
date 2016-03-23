@@ -16,3 +16,4 @@ VALUES ('http://www.boingboing.net',12),
 ('https://www.okcupid.com/',9);
 
 SELECT * FROM urls;
+SELECT original_url FROM urls;

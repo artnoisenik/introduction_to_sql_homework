@@ -14,3 +14,5 @@ VALUES ('http://www.boingboing.net',12),
 ('http://www.hairpieceherpes.com/',99),
 ('http://www.whattoexpect.com/forums/postpartum-depression.html', 1),
 ('https://www.okcupid.com/',9);
+
+SELECT * FROM urls;
